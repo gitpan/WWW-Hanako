@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WWW-Hanako.t
+lib/WWW/Hanako.pm
+META.yml                                 Module meta-data (added by MakeMaker)
