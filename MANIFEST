@@ -3,5 +3,7 @@ Makefile.PL
 MANIFEST
 README
 t/WWW-Hanako.t
+t/pod.t
+t/pod-coverage.t
 lib/WWW/Hanako.pm
 META.yml                                 Module meta-data (added by MakeMaker)

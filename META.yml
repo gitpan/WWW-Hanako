@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               WWW-Hanako
-version:            0.01
+version:            0.02
 abstract:           Perl interface for Hanako(Pollen observation system at Japan)
 author:
     - Tsukasa Hamano <hamano@klab.org>
